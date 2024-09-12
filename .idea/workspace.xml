@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="663e937d-5a22-40bc-b472-74edc554f140" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2iS5dGTDQUizmO4TKEAJkpN13du" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.API.executor": "Run",
+    "Python.Aktana.executor": "Run",
+    "Python.Ans1.executor": "Run",
+    "Python.Arrange.executor": "Run",
+    "Python.CWBA.executor": "Run",
+    "Python.ConditionalStatements.executor": "Run",
+    "Python.Date.executor": "Run",
+    "Python.Escape.executor": "Run",
+    "Python.Exception.executor": "Run",
+    "Python.Fileoperations.executor": "Run",
+    "Python.First.executor": "Run",
+    "Python.Forloop.executor": "Run",
+    "Python.Itr.executor": "Run",
+    "Python.LamdaExp.executor": "Run",
+    "Python.Largest.executor": "Run",
+    "Python.Largestoddeven.executor": "Run",
+    "Python.MainModule.executor": "Run",
+    "Python.ModulePlay.executor": "Run",
+    "Python.NearestsmallerValue.executor": "Run",
+    "Python.Negative.executor": "Run",
+    "Python.NewP.executor": "Run",
+    "Python.Overloading.executor": "Run",
+    "Python.Program1.executor": "Run",
+    "Python.Range.executor": "Run",
+    "Python.SET_COL.executor": "Run",
+    "Python.StockHighestPrice.executor": "Run",
+    "Python.String content reverse.executor": "Run",
+    "Python.Test.executor": "Run",
+    "Python.Test2.executor": "Run",
+    "Python.abcaabbaaa.executor": "Run",
+    "Python.almetric.executor": "Run",
+    "Python.anagram.executor": "Run",
+    "Python.charactercount.executor": "Run",
+    "Python.checkPAlindrome.executor": "Run",
+    "Python.classconcept.executor": "Run",
+    "Python.col2.executor": "Run",
+    "Python.collet.executor": "Run",
+    "Python.constructor.executor": "Run",
+    "Python.dictionar.executor": "Run",
+    "Python.even.executor": "Run",
+    "Python.fibonnaci.executor": "Run",
+    "Python.funct.executor": "Run",
+    "Python.hierrarInherti.executor": "Run",
+    "Python.inheritence.executor": "Run",
+    "Python.junglee.executor": "Run",
+    "Python.kwargs.executor": "Run",
+    "Python.localglobal.executor": "Run",
+    "Python.lostElement.executor": "Run",
+    "Python.module3.executor": "Run",
+    "Python.multilevel.executor": "Run",
+    "Python.multipleInhe.executor": "Run",
+    "Python.nearest.executor": "Run",
+    "Python.nearest_palindrome.executor": "Run",
+    "Python.override.executor": "Run",
+    "Python.override2.executor": "Run",
+    "Python.overriding.executor": "Run",
+    "Python.program2.executor": "Run",
+    "Python.raiseExcep.executor": "Run",
+    "Python.regularEXP.executor": "Run",
+    "Python.reverse.executor": "Run",
+    "Python.rotate.executor": "Run",
+    "Python.super.executor": "Run",
+    "Python.test123.executor": "Run",
+    "Python.try.executor": "Run",
+    "Python.tuppl.executor": "Run",
+    "Python.typesofargument.executor": "Run",
+    "Python.unpackcollection.executor": "Run",
+    "Python.whileloop.executor": "Run",
+    "Python.xcode.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Dudes co/Desktop/pythonProject/driver",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dudes co\Desktop\pythonProject\driver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dudes co\Desktop\pythonProject\Program" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="663e937d-5a22-40bc-b472-74edc554f140" name="Changes" comment="" />
+      <created>1719471227533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719471227533</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="367c1ce9-50b2-4d3a-9225-bdd464d03d85" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="367c1ce9-50b2-4d3a-9225-bdd464d03d85">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day3/collet.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day2/Exception.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
